@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <br>
+
+  {% for project in site.projects %}
+  <h2>
+    <a href="{{ project.url }}">
+      <div>
+        <img src="{{ project.image }}">
+        {{ project.name }}
+      </div>
+    </a>
+  </h2>
+  <p>{{ project.description | markdownify }}</p>
+  <br>
+{% endfor %}
+
+</div>
