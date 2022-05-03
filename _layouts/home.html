@@ -14,13 +14,13 @@ layout: default
   {% for project in site.projects %}
   <h2>
     <a href="{{ project.url }}">
+      {{ project.name }}
+      <p>{{ project.description | markdownify }}</p>
       <div>
         <img src="{{ project.image }}">
-        {{ project.name }}
       </div>
     </a>
   </h2>
-  <p>{{ project.description | markdownify }}</p>
   <br>
 {% endfor %}
 

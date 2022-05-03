@@ -1,0 +1,29 @@
+email:
+  id: 'peter.darinzo@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+linkedin:
+  id: 'in/peter-darinzo-7a848a211/'
+  href: 'https://www.linkedin.com/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+facebook:
+  id: '100007240246081'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'PeteDarinzo'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'

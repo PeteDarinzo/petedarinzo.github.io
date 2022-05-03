@@ -22,14 +22,21 @@ collections:
   projects:
     output: true
 
-title: Peter V Darinzo
+
+
+title: Peter Darinzo
 email: peter.darinzo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The dev portfolio for Peter Darinzo.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+url: "https://petedarinzo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
 github_username:  PeteDarinzo
+
+author:
+  name: Peter Darinzo
+  email: peter.darinzo@gmail.com
+
 
 
 # Build settings
@@ -38,19 +45,19 @@ plugins:
   - jekyll-feed
 
 minima:
-social_links:
-  twitter: jekyllrb
-  github: jekyll
-  stackoverflow: "11111"
-  dribbble: jekyll
-  facebook: jekyll
-  flickr: jekyll
-  instagram: jekyll
-  linkedin: jekyll
-  pinterest: jekyll
-  telegram: jekyll
-  microdotblog: jekyll
-  keybase: jekyll
+  social_links:
+    twitter: jekyllrb
+    github: https://github.com/PeteDarinzo
+    stackoverflow: "11111"
+    dribbble: jekyll
+    facebook: jekyll
+    flickr: jekyll
+    instagram: jekyll
+    linkedin: jekyll
+    pinterest: jekyll
+    telegram: jekyll
+    microdotblog: jekyll
+    keybase: jekyll
 
 
 # Exclude from processing.

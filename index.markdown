@@ -13,13 +13,13 @@ title: About Me
 </p>  
 <br> 
 
-Hi, I'm Pete! I am a graduate of the online coding boot camp, Springboard, completing 800+ hours of hands-on course material, with 1:1 industry expert mentor oversight, and completion of 4 portfolio in-depth projects covering front-end web development, back-end web development, and full stack development. 
+Hi, I'm Pete! I am a software engineer competent in fullstack development, knowledgeable with JavaScript, Python, Flask and Express, and React. 
 
-I am an engineer with a drive to create and test, possessing a varied skill set gained through four years of nuclear submarine design. Strong problem solving skills from working with diverse engineering teams to construct a complex product, and outside vendors to develop submarine components. I have good organizational skills, accountability, and communication developed through regular progress reporting to management and program office. I am a lifelong learner, looking forward to filling a dynamic role in software development.
+My brain is wired to build. Since I was young, I could be found in the basement or backyard, cobbling together small toys out of wood scraps. Electrons became my new medium in college, as I began to experiment with circuits while studying electrical engineering, and also getting my feet wet in computer science. My first engineering job in nuclear submarine electrical systems followed. After four years I had gained a lot of useful experience, but I decided I wanted sometthing more interactive and challenging. I recalled the enjoyment I got from my university software classes: introduction to computer science, object oriented programming, data structures and algorithms, and suddenly the next step of my career became clear. 
 
-I have university level experience in object oriented programming, and data structures & algorithms (Java).
+From the fall, of 2020 to the following spring, I built a campervan from scratch out of a Ford Transit cargo van, packed up my then-girlfriend and hamster, and hit the road. While exploring the country, I enrolled in Springboard, an online coding bootcamp that teaches the fundamentals of fullstack software engineering. I learned the ins and outs of web development no matter where I was, from the rocky Oregon coast, to the towering saguaro cacti of Arizona. 
 
-Through Springboard, I have skills in Javascript, DOM Manipulation, Git, Ajax, jQuery, Python, Flask, SQL, PostgresQL, Node, Express, React, and Redux, and unit and integration testing.  
+Since then I've completed Springboard, including two capstone projects, and returned to domestic life back in Connecticut. While on the job hunt, I'm honing my JavaScript and Python skills, and checking out books on other technologies that interest me. I'm currently picking up Ruby on Rails, and excited to see how I can put it to use. I'm seeking full time employment in a backend or fullstack role, looking forward to helping the right company achieve their goals.
 
 ---
 
