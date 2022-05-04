@@ -5,7 +5,7 @@ layout: default
 description: An app that lets you optimize your time for movie watching.
 ---
 
-# Weatherly
+  <img src="/assets/weatherly-logo.PNG" alt="weatherly-logo"  />
 ###  An app that lets you optimize your time for movie watching.
 
 **GitHub Repo:** [https://github.com/PeteDarinzo/Weatherly-Frontend](https://github.com/PeteDarinzo/Weatherly-Frontend)  
@@ -19,7 +19,7 @@ description: An app that lets you optimize your time for movie watching.
 Rainy days and early winter sunsets on the road made movies a necessity to pass downtime. Thankfully, a good friend lent me some DVDs from his collection before I left, and I picked up more as I went from thrift stores. As a result, I saw some new and classic films, and ones that I wouldn't normally consider. I knew it was a hobby I'd like to continue after settling back into domestic life, so I began to think of ways to pair it with my web development skills. 
 
 <p align="center">
-  <img src="/assets/Weatherly.PNG" alt="green-flash" width="500" />
+  <img src="/assets/Weatherly.PNG" alt="green-flash" style="width: 100%" />
 </p>
 
 # Goal 
@@ -52,6 +52,12 @@ User authentication is implemented with JSON web tokens (JWT). User password are
 # Features
 
 After completion, the app functions fully as intended. Upon login, users are presented with a dashboard giving the three day forecast, and a list of their most recently saved movies. A quaint weather quote is also presented. Users may navigate to the search page to find new movies, or the movies page to see what they have saved. The forecast page gives a one week forecast, with a bargraph for each day corresponding to how well the weather matches the user's watch preferences. The profile dashboard gives the user the option to change their geographical location, or to update their weather preferences. 
+
+<!-- <p align="center">
+  <img src="/assets/weatherly-profile.PNG" alt="green-flash" style="width: 100%" />
+  <img src="/assets/weatherly-search.PNG" alt="green-flash" style="width: 100%" />
+  <img src="/assets/weatherly-forecast.PNG" alt="green-flash" style="width: 100%" />
+</p> -->
 
 # Going Forward
 

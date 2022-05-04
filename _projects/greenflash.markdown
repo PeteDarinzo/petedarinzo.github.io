@@ -5,7 +5,8 @@ layout: default
 description: A road trip assistant for RVers and vanlifers.
 ---
 
-# Green Flash  
+<!-- # Green Flash   -->
+<img src="/assets/GreenFlash-logo.PNG" alt="green-flash"  />
 ### A road trip assistant for RVers and vanlifers.
 
 **GitHub Repo:** [https://github.com/PeteDarinzo/Green-Flash](https://github.com/PeteDarinzo/Green-Flash/)  
@@ -17,17 +18,17 @@ description: A road trip assistant for RVers and vanlifers.
 
 Life on the road is different from that in a fixed residence. Some days are laid back, some are packed with adventure. Some days, you won't know where you'll be sleeping until the sun starts to set. Or you'll wait until you're hungry to start thinking about where to eat. Also, your home (on wheels) requires just as much maintenance, perhaps more, as your daily driver back home.
 
-<p align="center">
-  <img src="/assets/GreenFlash.PNG" alt="green-flash" width="500" />
-</p>
+<!-- <p align="center">
+  <img src="/assets/GreenFlash.PNG" alt="green-flash" style="width:100%;" />
+</p> -->
 
 # Goal
 
 I created Green Flash to be a road trip assistant for nomads to find local services, document daily life, and keep a record of maintenance done to the vehicle. Users simply add their location and the type of service they seek, are given results straight from Yelp. For more information, the user can navigate to the Yelp page itself, or save the business for later reference. Creating journal and maintenance logs are simple - just give a title, then input the location, date, and mileage. An image is worth a thousand words, user's can add one to the post as well. Looking back on past post's give user's a welcome reminder of where they were on a certain day, or when they're due for an oil change.
 
-<p align="center">
+<!-- <p align="center">
   <img src="/assets/Log.PNG" alt="green-flash" />
-</p>
+</p> -->
 
 # Technologies
 
