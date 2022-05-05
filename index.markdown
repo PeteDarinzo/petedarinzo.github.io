@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About Me
+# title: About Me
 ---
+
+# **About Me**
 
 ---
 
@@ -23,5 +25,5 @@ Since then I've completed Springboard, created two capstone projects, and return
 
 ---
 
-# Projects
+# **Projects**
 
