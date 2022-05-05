@@ -21,7 +21,7 @@ My brain is wired to build. When I was young, I could be found in the basement o
 
 From the fall, of 2020 to the following spring, I built a campervan from scratch out of a Ford Transit cargo van, packed up my then-girlfriend and hamster, and hit the road. While exploring the country, I enrolled in Springboard, an online coding bootcamp that teaches the fundamentals of fullstack software engineering. I learned the ins and outs of web development no matter where I was, from the rocky Oregon coast, to the towering saguaro cacti of Arizona. 
 
-Since then I've completed Springboard, created two capstone projects, and returned to domestic life back in Connecticut. While on the job hunt, I'm honing my JavaScript and Python skills, and checking out books on other technologies that interest me. I'm currently picking up Ruby on Rails, and excited to see how I can put it to use. I'm seeking full time employment in a backend or fullstack role, looking forward to helping the right company achieve their goals.
+Since then I've completed Springboard, including two capstone projects, and returned to domestic life back in Connecticut. While on the job hunt, I'm honing my JavaScript and Python skills, and checking out books on other technologies that interest me. I'm currently picking up Ruby on Rails, and excited to see how I can put it to use. I'm seeking full time employment in a backend or fullstack role, looking forward to helping the right company achieve their goals.
 
 ---
 
