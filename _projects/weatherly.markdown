@@ -2,7 +2,7 @@
 name: Weatherly
 image: /assets/Weatherly.PNG
 layout: default
-description: An app that lets you optimize your time for movie watching.
+description: An app that lets you optimize your movie watching time.
 ---
 <a href="https://fast-authority.surge.sh/">
   <img src="/assets/weatherly-logo.PNG" alt="weatherly-logo"  />
