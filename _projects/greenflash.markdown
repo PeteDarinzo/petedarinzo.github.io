@@ -84,7 +84,7 @@ Image upload is supported for each log or maintenance post, and users may also u
 
 <br>
 
-# **Next steps**
+# **Going Forward**
 
 After completion, the app functions fully as intended. I have personally used it to keep track of maintenance on my campervan, and also as a personal journal. 
 
