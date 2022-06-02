@@ -92,7 +92,7 @@ At this time a user may only see his or her posts, but I think a version with "f
 
 # **Lessons Learned**
 
-Fortunately, the created of my first capstone project went quite smooth. The biggest challenges I faced were styling, and implementation of the image upload. 
+Fortunately, the creation of my first capstone project went quite smooth. The biggest challenges I faced were styling, and implementation of the image upload. 
 
 The first challenge was appearance. I went back and forth between a few layouts and color schemes, but finally settled on the three column "dashboard" for log and maintenance entries, which Bootstrap made relatively easy. The tricky parts came later, e.g. keeping the background image fixed while scrolling on a lengthy post, and preventing the space taken up by the navbar from displacing content below. The lesson learned: spend a little more time considering styling upfront, and don't leave the little details to the end.
 
