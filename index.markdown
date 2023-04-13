@@ -17,13 +17,13 @@ layout: home
 
 Hi, I'm Pete! I am a software engineer competent in fullstack development, knowledgeable with JavaScript, Python, Flask and Express, and React. 
 
-### Experience
+### **Work Experience**
 
 Software developer @ [Extremely Heavy](xh.io)
 
-*June 2022 - Present
+*June 2022 - Present*
 
-### My Story:
+### **My Story**
 
 My brain is wired to build. When I was young, I could be found in the basement or backyard, cobbling together small toys out of wood scraps. Electrons became my new medium in college, as I began to experiment with circuits while studying electrical engineering, and also getting my feet wet in computer science. My first engineering job in nuclear submarine electrical systems followed. After four years I had gained a lot of useful experience, but I decided I wanted something more interactive and challenging. I recalled the enjoyment I got from my university software classes: introduction to computer science, object oriented programming, data structures and algorithms, and suddenly the next step of my career became clear. 
 
